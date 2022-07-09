@@ -1,5 +1,5 @@
 # Who Am I?
-- 👋 Hi, I’m Anh Lam, and I prefer being called Brian
+- 👋 Hi, I’m Anh Lam
 - 👀 I mostly code in Java and MERN stack.
 - 🌱 I’m currently CS student at [San Jose State University](https://www.sjsu.edu/)
 - 📫 My Portfolio Website: In Process...
